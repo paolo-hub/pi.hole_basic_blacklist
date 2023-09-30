@@ -16,7 +16,7 @@ try:
     for line in lines:
         # Ignora le linee vuote e i commenti
         if line.strip() and not line.strip().startswith("#"):
-            command = f"pihole -b {line.strip()} --comment 'Basic Domino Blocked'"
+            command = f"pihole -b {line.strip()} --comment 'Basic Domine Blocked'"
             subprocess.run(command, shell=True, check=True)
 
     print("Completato!")
