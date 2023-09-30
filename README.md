@@ -40,5 +40,26 @@ The list contains the blocks indicated in the table below.
 |                 |   Apple         |
 |                 |   Samsung       |
 
+## Upload to pihole database
+
+To configure the domain list, please follow these steps:
+
+Download the script:
+``` 
+cd /opt
+sudo wget https://raw.githubusercontent.com/paolo-hub/pi.hole_basic_domine_blacklist/main/pihole_domain_black.py
+``` 
+
+Execute the script:
+``` 
+python3 pihole_domain_black.py
+``` 
+
+This will load the domains with the description "Basic Domain Blocked" and place them in the Default group.
+
+
+
+
+
 
 ****
