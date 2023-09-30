@@ -6,7 +6,8 @@ This blacklist for Pi-hole has been created based on the project [Toolz](https:/
 
 |    Block   |   Service  |
 | ---------- | ---------- |
-|  **ADS     |   Amazon   |
+|    ADS     |   Amazon   |
 |            |   Google   |
-| ---------- | ---------- |
+|            | Doubleclick.net |
+|            |   Adolony  |
 |  Analytics |   Google   |
