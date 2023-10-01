@@ -177,6 +177,12 @@ iot-logser.realme.com
 bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
 
+# Oppo
+adsfs.oppomobile.com
+adx.ads.oppomobile.com
+ck.ads.oppomobile.com
+data.ads.oppomobile.com
+
 # Xiaomi
 api.ad.xiaomi.com
 data.mistat.xiaomi.com
