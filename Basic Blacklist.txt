@@ -16,6 +16,8 @@ pagead2.googlesyndication.com
 adservice.google.com
 pagead2.googleadservices.com
 afs.googlesyndication.com
+pagead2.googlesyndication.com
+pagead2.googleadservices.com
 
 # Doubleclick.net
 stats.g.doubleclick.net
@@ -45,6 +47,7 @@ analytics.google.com
 click.googleanalytics.com
 google-analytics.com
 ssl.google-analytics.com
+analytics.google.com
 
 # Hotjar
 adm.hotjar.com
@@ -216,6 +219,7 @@ api-adservices.apple.com
 books-analytics-events.apple.com
 weather-analytics-events.apple.com
 notes-analytics-events.apple.com
+weather-analytics-events.apple.com
 
 # Samsung
 samsungads.com
