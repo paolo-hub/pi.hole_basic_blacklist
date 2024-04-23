@@ -1,5 +1,5 @@
 # pi.hole Basic Domine Blacklist
-![alt text](https://badgen.net/badge/platform/pi.hole/blue?) ![alt text](https://badgen.net/badge/content/blaclist/red?)
+![alt text](https://badgen.net/badge/platform/pi.hole/blue?) ![alt text](https://badgen.net/badge/content/blacklist/red?)
 
 Basic Blacklist for pi.hole
 
