@@ -1,0 +1,145 @@
+# Basic Blacklist based on https://github.com/d3ward/toolz
+
+#
+# ADS
+#
+
+# Amazon Ads
+||advertising-api-eu.amazon.com^
+||adtago.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
+
+# Google Ads
+||googlesyndication.com^
+||googleadservices.com^
+||doubleclick.net^
+||adservice.google.com^
+||pagead2.googleadservices.com^
+
+# Adcolony
+||adcolony.com^
+
+# Media.net
+||media.net^
+
+#
+# Analytics
+#
+
+# Google Analytics
+||google-analytics.com^
+||googleanalytics.com^
+||app-measurement.com^
+||ssl.google-analytics.com^
+
+# Hotjar
+||hotjar.com^
+
+# MouseFlow
+||mouseflow.com^
+
+# FreshWorks
+||freshmarketer.com^
+
+# Stats WP Plugin
+||stats.wp.com^
+
+# LuckyOrange
+||luckyorange.com^
+
+#
+# Error Trackers
+#
+
+# Bugsnag
+||bugsnag.com^
+
+# Sentry
+||sentry-cdn.com^
+||getsentry.com^
+
+#
+# Social Trackers
+#
+
+# Facebook Trackers
+||pixel.facebook.com^
+||an.facebook.com^
+
+# Twitter Ads
+||ads-twitter.com^
+||ads-api.twitter.com^
+
+# LinkedIn Ads
+||ads.linkedin.com^
+||analytics.pointdrive.linkedin.com^
+
+# Pinterest Ads
+||ads.pinterest.com^
+||analytics.pinterest.com^
+||trk.pinterest.com^
+
+# Reddit Analytics
+||events.reddit.com^
+||events.redditmedia.com^
+
+# YouTube Ads
+||ads.youtube.com^
+
+# TikTok Ads
+||tiktok.com^$important
+||byteoversea.com^
+
+#
+# Varie
+#
+
+# Yahoo Ads and Analytics
+||ads.yahoo.com^
+||analytics.yahoo.com^
+||advertising.yahoo.com^
+||adtech.yahooinc.com^
+
+# Yandex Ads and Analytics
+||yandex.ru^$important
+||yandex.net^$important
+
+# Unity Ads
+||unityads.unity3d.com^
+
+#
+# OEMs Telefono
+#
+
+# Realme Ads
+||realme.com^$important
+||realmemobile.com^$important
+
+# Oppo Ads
+||oppomobile.com^$important
+
+# Xiaomi Ads
+||ad.xiaomi.com^
+||mistat.xiaomi.com^
+||miui.com^$important
+
+# OnePlus Ads
+||oneplus.cn^
+||oneplus.net^
+
+# Huawei Tracking
+||hicloud.com^$important
+
+# Apple Ads and Metrics
+||advertising.apple.com^
+||iadsdk.apple.com^
+||metrics.apple.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+
+# Samsung Ads and Metrics
+||samsungads.com^
+||smetrics.samsung.com^
+||nmetrics.samsung.com^
+||analytics-api.samsunghealthcn.com^
