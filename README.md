@@ -1,5 +1,5 @@
 # pi.hole Basic Domine Blacklist
-![alt text](https://badgen.net/badge/platform/pi.hole/blue?) ![alt text](https://badgen.net/badge/content/blacklist/red?)
+![alt text](https://badgen.net/badge/platform/pi.hole/blue?) ![alt text](https://badgen.net/badge/platform/AdGuard/green?) ![alt text](https://badgen.net/badge/content/blacklist/red?)
 
 Basic Blacklist for pi.hole
 
@@ -56,6 +56,14 @@ python3 pihole_domain_black.py
 ``` 
 
 This will load the domains with the description "Basic Domain Blocked" and place them in the Default group.
+
+
+## Direct Links
+|    Service        |   Link       |
+| ----------------- | ------------ |
+|    pi Hole        |   [link_for_piHole](https://raw.githubusercontent.com/paolo-hub/pi.hole_basic_domine_blacklist/main/Basic%20Blacklist.txt)     |
+|    Ad Guard       |   [link_for_Ad_Guard](https://raw.githubusercontent.com/paolo-hub/pi.hole_basic_domine_blacklist/main/Basic%20Blacklist%20Adguard.txt)     |
+
 
 
 
